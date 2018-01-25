@@ -4,3 +4,7 @@
 function sayHello() {
   console.log('Hello!')
 }
+
+function happyHolidays() {
+  return "Happy holidays!"
+}
